@@ -1,0 +1,43 @@
+Tasador inmuebles
+MERCADO ARGENTINO
+HISTORIAL
+Las tasaciones aparecerán acá
++ Nueva tasación
+Nueva tasación
+
+ZonaProp + Argenprop · datos en tiempo real
+TIPO DE OPERACIÓN
+Tipo de inmueble
+DepartamentoCasaPH
+Operación
+Venta
+Alquiler
+UBICACIÓN
+Zona
+                — Seleccioná —
+                CABA
+                Provincia de Buenos Aires
+              
+CARACTERÍSTICAS
+Ambientes
+              1 ambiente
+              2 ambientes
+              3 ambientes
+              4 ambientes
+              5 ambientes
+              6+ ambientes
+            
+Superficie cubierta (m²)
+
+Antigüedad
+              A estrenar
+              1 a 10 años
+              10 a 20 años
+              20 a 30 años
+              30 a 40 años
+              40 a 50 años
+              Más de 50 años
+            
+AMENITIES
+Balcón Cochera Baulera Jardín Pileta Gimnasio Seguridad 24hs SUM Terraza Quincho
+Buscar comparables y tasar →
